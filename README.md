@@ -1,5 +1,7 @@
 # Task 4 — Lafyuu Mini Shop (Flutter)
+## 🎥 App Demo
 
+[Watch Demo Video](https://drive.google.com/file/d/1SU2nA0iWv0If1u1K8v7xNBolQbLAVOS3/view?usp=sharing)
 ## Task requirements implemented
 - Navigation refactored with **go_router** and named routes.
 - Figma-inspired 5-item bottom navigation: **Home, Explore, Cart, Offer, Account**.
